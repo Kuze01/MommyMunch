@@ -1,0 +1,2 @@
+# food_ingredients_detector_and_recipe_generator
+part of Bangkit Capstone Project
