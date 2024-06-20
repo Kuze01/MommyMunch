@@ -50,7 +50,7 @@ Public Dataset
 * [TensorFlow Lite](https://www.tensorflow.org/lite)
   
 ### ScreenShoot Application
-1. SplashScreen & OnBoarding Page
+1. SplashScreen
 2. SignIn & SignUp Page
 3. Home Page & Scan Feature Page
 3. List Feature Page
