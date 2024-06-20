@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735460422070",
+    "firebase_url": "https://mommymunch-6e361-default-rtdb.firebaseio.com",
+    "project_id": "mommymunch-6e361",
+    "storage_bucket": "mommymunch-6e361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735460422070:android:12f21e12f13aaccede1117",
+        "android_client_info": {
+          "package_name": "com.dicoding.mommymunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735460422070-1ftiee21ig988ut6s2vcoe803qa3f34v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.mommymunch",
+            "certificate_hash": "c68a77b57c7f0376e010f416453ea07708d11f91"
+          }
+        },
+        {
+          "client_id": "735460422070-dun9vhthgv8s8ejuv85qkkappgp24ba0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcUcTm_zGecl4qFHnrEoWVopajmNUKfDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735460422070-dun9vhthgv8s8ejuv85qkkappgp24ba0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
