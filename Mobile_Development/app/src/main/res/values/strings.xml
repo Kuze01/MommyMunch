@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MommyMunch</string>
+    <string name="title_home">Home</string>
+    <string name="title_detection">Detection</string>
+    <string name="title_account">Account</string>
+    <string name="image_classifier_failed">Image Classifier Helper\n</string>
+
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="text">Text</string>
+    <string name="upload">Unggah</string>
+    <string name="analyze">Analyze</string>
+
+    <string name="empty_image_warning">Empty Image Warning</string>
+    <string name="result">Result</string>
+    <string name="shorts">Shorts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note">Note\n</string>
+    <string name="favourite">Favourite\n</string>
+    <string name="checklistbutton">Checklist</string>
+    <string name="capturebutton">Capture Button</string>
+    <string name="gallerybutton">Gallery Button</string>
+    <string name="switchcamerabutton">Switch Camera Button</string>
+    <string name="back">Back</string>
+    <string name="previewimage">Preview Image</string>
+    <string name="image_item">image_item</string>
+    <string name="item_title">Item Title</string>
+    <string name="item_content">Item Content</string>
+
+    <!-- Firebase -->
+    <string name="your_web_client_id">735460422070-dun9vhthgv8s8ejuv85qkkappgp24ba0.apps.googleusercontent.com</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="image_login">image_login</string>
+    <string name="title_login_page">Login Page</string>
+    <string name="input_your_email">Input Your Email</string>
+    <string name="input_your_password">Input Your Password</string>
+    <string name="or">Or</string>
+    <string name="login_google">Login Google</string>
+    <string name="dont_have_account">Belum Punya Akun?</string>
+    <string name="sign_up_button"> Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="signup_page_image">Signup Page Image</string>
+    <string name="signup_page">Sign Up Page</string>
+    <string name="input_your_username">Masukkan Username Anda</string>
+    <string name="detection_button">Detection Button</string>
+    <string name="input_your_password_confirmation">Confirm Your Password</string>
+    <string name="login_button">Log In</string>
+    <string name="image_classify_source">Image Classify Source</string>
+    <string name="splash_screen_section">Splash Screen Section</string>
+    <string name="powered_by">Powered By</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="edit_icon">Edit Icon</string>
+    <string name="logout">Log Out</string>
+    <string name="save_edit">Save Edit</string>
+
+</resources>
