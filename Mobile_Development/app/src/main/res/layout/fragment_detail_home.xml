@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.fragment.detection.result.ResultActivity">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -15,13 +14,13 @@
         <ImageView
             android:id="@+id/ivImageClassifySource"
             android:layout_width="match_parent"
-            android:layout_height="400dp"
+            android:layout_height="250dp"
             android:contentDescription="@string/image_classify_source"
             android:scaleType="fitCenter"
             app:srcCompat="@drawable/ic_place_holder"/>
 
         <TextView
-            android:id="@+id/tvPredictedClass"
+            android:id="@+id/tvFoodName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textStyle="bold"
@@ -30,10 +29,10 @@
             android:layout_marginTop="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginEnd="16dp"
-            android:text="@string/predicted_class" />
+            android:text="@string/food_name" />
 
         <TextView
-            android:id="@+id/classPredictedText"
+            android:id="@+id/tvFoodNameDetail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
@@ -54,29 +53,7 @@
             android:text="@string/nutrition_info" />
 
         <TextView
-            android:id="@+id/nutritionInfoText"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginEnd="16dp"
-            android:text="@string/result" />
-
-        <TextView
-            android:id="@+id/tvContent"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textStyle="bold"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:layout_marginTop="16dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginEnd="16dp"
-            android:text="@string/content_tutorial" />
-
-
-        <TextView
-            android:id="@+id/contentTutorialText"
+            android:id="@+id/nutritionInfoTextDetail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
@@ -85,5 +62,4 @@
             android:text="@string/result" />
 
     </LinearLayout>
-
 </ScrollView>
