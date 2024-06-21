@@ -54,20 +54,6 @@ Public Dataset
 2. SignIn & SignUp Page
 3. Home Page & Scan Feature Page
 3. List Feature Page
-
-## Cloud Computing Learning Path
-### Steps To Deploy Backend API To App Engine
-1. ..
-2. ..
-3. ..
-
-### Steps To Deploy Website To App Engine
-1. ..
-2. ..
-3. ..
-
-### Cloud Architecture
-1. API Register & Login
 2. MommyMunch Landing page
 
 ### Featured Technologies
